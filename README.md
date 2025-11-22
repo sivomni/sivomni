@@ -16,4 +16,4 @@ I'm learning Git and GitHub! Currently exploring:
 ## 🛠️ Technologies I'm Learning
 - Git & GitHub
 - Version Control
-- Open Source
+- Open Source Code
