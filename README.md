@@ -1,0 +1,5 @@
+"# Hi there! ??" 
+"## I'm learning Git and GitHub!" 
+"- ?? Currently working on: My first GitHub projects" 
+"- ?? Learning: Version control with Git" 
+"- ?? How to reach me: sivomnii@gmail.com" 
