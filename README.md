@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-**sivomni/sivomni** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+Thanks for stopping by my GitHub profile! This is my special profile README that gives you a glimpse into my coding journey.
 
 ## 🚀 About Me
 
